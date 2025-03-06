@@ -1,23 +1,17 @@
 # Welcome to My GitHub 👋
 
 ## About Me 🚀
-I'm [Seranok](https://github.com/seranok), a passionate developer from Ukraine. I enjoy building projects, learning new technologies, and working on challenges that push my limits. 
+I'm [Seranok](https://github.com/seranok1337), a developer from Ukraine. I'm just getting started with programming, learning **JavaScript** and exploring the world of **web development**. 
 
-- 🌱 Currently learning **React** and **JavaScript**.
-- 🔭 Working on **improving my stack**
-- 💬 Ask me about **web development**, **programming**, or **gaming**.
-- 📫 How to reach me: **seranok@example.com**.
-- ⚡ Fun fact: I'm into **mechanical keyboards**, **Arduino**, and **gaming**.
+- 🌱 Currently learning **JavaScript**.
+- 💬 Feel free to reach out if you want to talk about **programming**, **gaming**, or **tech** in general.
+- 📫 How to reach me: [Telegram](https://t.me/seashoreonthemoon).
 
-## Technologies I Use 💻
+## Technologies I'm Exploring 💻
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
 
 ## GitHub Stats 📊
 
@@ -29,4 +23,4 @@ I'm [Seranok](https://github.com/seranok), a passionate developer from Ukraine. 
 
 ---
 
-Feel free to explore my repositories, and let's connect! 🚀
+Thanks for checking out my profile! 🚀
