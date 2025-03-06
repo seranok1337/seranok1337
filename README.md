@@ -20,7 +20,7 @@ I'm [Seranok](https://github.com/seranok1337), a developer from Ukraine. I'm jus
 
 ## Visitors 👀
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=seranok1337.seranok1337)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=seranok1337.visitor-badge)
 
 ---
 
